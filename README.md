@@ -90,10 +90,10 @@ Layer 5: Secrets Management
 
 ## 🚀 CI/CD Pipeline
 
-![CI/CD Pipeline](./screenshots/github-actions.png)
+![CI/CD Pipeline](./screenshots/github-action.png)
 > Automated deployment triggered on every push to main branch
 
-![CI/CD Pipeline](./screenshots/github-actions.png)
+![CI/CD Pipeline](./screenshots/github-action-workflow.png)
 
 ```
 git push main
